@@ -1,5 +1,5 @@
 # myprojects
-## This contains all projects created by Arabinda
+## Info: This contains all projects created by Mr. Arabinda Das.
 ### Objectives
 *This repository is going to contain all my sample projects.
 *This mostly include followings
